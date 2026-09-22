@@ -136,12 +136,6 @@ values
 
 select * from tecnico;
 ```
-=======
-# sesi_bcd_vps01_atendimento_chamados_2026
-Banco de dados Atendimento de chamados de TI
-Um banco de dados de atendimento a chamados de TI que precisa registrar quem solicita o atendimento, qual é o problema, quem o atende, seu andamento e a solução aplicada.
-<img src="(<MER DER conceitual e lógico bcd chamados de TI.drawio.png>)" alt="Imagem MER DER Lógico e Conceitual">
->>>>>>> 20ddfa555f647dee700b83a77762ec56229b6183
 
 ## Dicionário de dados
 | Entidade  | Atributo        | Tipo     | Tamanho | Descrição                                            |
