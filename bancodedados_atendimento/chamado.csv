@@ -1,10 +1,6 @@
-    id, titulo, descricao,data_abertura,data_fechamento,status,prioridade,id_usuario, id_categoria,id_tecnico
- (null, 'computador nao liga', 'o computador do setor financeiro nao liga.', '2026-09-15 08:30:00', '2026-09-15 10:30:00', 'fechado', 'alta', 1, 1, 1),
-
-(null, 'erro no sistema', 'o sistema apresenta erro ao realizar o login.', '2026-09-16 09:15:00', null, 'em andamento', 'media', 2, 2, 2),
-
-(null, 'internet lenta', 'a internet esta muito lenta no setor administrativo.', '2026-09-17 10:00:00', null, 'aberto', 'alta', 3, 3, null),
-
-(null, 'senha bloqueada', 'o usuario nao consegue acessar sua conta.', '2026-09-18 13:20:00', '2026-09-18 14:00:00', 'fechado', 'baixa', 4, 4, 4),
-
-(null, 'impressora nao imprime', 'a impressora do setor de vendas nao esta imprimindo.', '2026-09-19 14:10:00', null, 'em andamento', 'media', 5, 1, 1);
+id, titulo, descricao,data_abertura,data_fechamento,status,prioridade,id_usuario, id_categoria,id_tecnico
+1,computador nao liga,o computador do setor financeiro nao liga,2026-09-15 08:30:00,2026-09-15 10:30:00,fechado,alta, 1, 1, 1
+2,erro no sistema,o sistema apresenta erro ao realizar o login,2026-09-16 09:15:00, null,em andamento,media, 2, 2, 2
+3,internet lenta,a internet esta muito lenta no setor administrativo,2026-09-17 10:00:00, null,aberto,alta, 3, 3, 5
+4, senha bloqueada,o usuario nao consegue acessar sua conta,2026-09-18 13:20:00,2026-09-18 14:00:00,fechado,baixa, 4, 4, 4
+5,impressora nao imprime,a impressora do setor de vendas nao esta imprimindo,2026-09-19 14:10:00, null,em andamento,media, 5, 1, 1
