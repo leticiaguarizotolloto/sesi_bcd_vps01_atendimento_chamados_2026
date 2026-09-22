@@ -1,0 +1,5 @@
+    id, nome, descricao
+(null, 'hardware', 'problemas relacionados a computadores e equipamentos'),
+(null, 'software', 'problemas relacionados a programas e sistemas'),
+(null, 'rede', 'problemas relacionados a internet e conexoes'),
+(null, 'acesso', 'problemas relacionados a senhas e permissoes');

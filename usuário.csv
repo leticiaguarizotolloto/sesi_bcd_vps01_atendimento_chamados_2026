@@ -1,0 +1,6 @@
+id, nome, email ,telefone ,departamento ,cargo ,status
+(null, 'leticia guarizo', 'leticia@email.com', '19999990001', 'financeira', 'analista financeira', 'ativo'),
+(null, 'eloisa macedo', 'eloisa@email.com', '19999990002', 'recursos humanos', 'assistente de rh', 'ativo'),
+(null, 'alicia coelho', 'alicia@email.com', '19999990003', 'administrativa', 'assistente administrativa', 'ativo'),
+(null, 'mariana correia', 'mariana@email.com', '19999990004', 'marketing', 'analista de marketing', 'ativo'),
+(null, 'carolina santos', 'carolina@email.com', '19999990005', 'vendas', 'vendedora', 'inativo')
