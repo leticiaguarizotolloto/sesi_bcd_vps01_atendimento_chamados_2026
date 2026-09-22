@@ -1,5 +1,5 @@
-    id, nome, descricao
-(null, 'hardware', 'problemas relacionados a computadores e equipamentos'),
-(null, 'software', 'problemas relacionados a programas e sistemas'),
-(null, 'rede', 'problemas relacionados a internet e conexoes'),
-(null, 'acesso', 'problemas relacionados a senhas e permissoes');
+id,nome,descricao
+1,hardware,Problemas relacionados a computadores e equipamentos
+2,software,Problemas relacionados a programas e sistemas
+3,rede,Problemas relacionados a internet e conexoes
+4,acesso,Problemas relacionados a senhas e permissoes

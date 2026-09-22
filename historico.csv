@@ -1,12 +1,7 @@
- id, id_chamado, id_usuario, data_hora , descricao, tipo
-(null, 1, 1, '2026-09-15 09:00:00', 'tecnico iniciou a verificacao do computador.', 'atendimento'),
-
-(null, 1, 1, '2026-09-15 10:30:00', 'computador foi reparado e o chamado foi encerrado.', 'solucao'),
-
-(null, 2, 2, '2026-09-16 10:00:00', 'tecnico iniciou a analise do erro de login.', 'atendimento'),
-
-(null, 3, 3, '2026-09-17 10:30:00', 'foi identificada uma possivel falha na conexao de rede.', 'atendimento'),
-
-(null, 4, 4, '2026-09-18 13:40:00', 'senha do usuario foi redefinida.', 'solucao'),
-
-(null, 5, 5, '2026-09-19 14:30:00', 'tecnico iniciou a verificacao da impressora.', 'atendimento');
+id,id_chamado,id_usuario,data_hora,descricao,tipo
+1,1,1,2026-09-15 09:00:00,Tecnico iniciou a verificacao do computador.,atendimento
+2,1,1,2026-09-15 10:30:00,Computador foi reparado e o chamado foi encerrado.,solucao
+3,2,2,2026-09-16 10:00:00,Tecnico iniciou a analise do erro de login.,atendimento
+4,3,3,2026-09-17 10:30:00,Foi identificada uma possivel falha na conexao de rede.,atendimento
+5,4,4,2026-09-18 13:40:00,Senha do usuario foi redefinida.,solucao
+6,5,5,2026-09-19 14:30:00,Tecnico iniciou a verificacao da impressora.,atendimento

@@ -1,5 +1,5 @@
- id, nome, email, especialidade, status 
- (null, 'jessica vaz', 'jessica@empresa.com', 'hardware', 'ativo'),
-(null, 'joao nora', 'joao@empresa.com', 'software', 'ativo'),
-(null, 'pedro souza', 'pedro@empresa.com', 'redes', 'ativo'),
-(null, 'liara tolloto', 'liara@empresa.com', 'seguranca', 'ativo');
+id,nome,email,especialidade,status
+1,jessica vaz,jessica@empresa.com,hardware,ativo
+2,joao nora,joao@empresa.com,software,ativo
+3,pedro souza,pedro@empresa.com,redes,ativo
+4,liara tolloto,liara@empresa.com,seguranca,ativo
