@@ -143,11 +143,8 @@ select * from tecnico;
 | Usuário   | id_usuario      | INT      |      11 | Chave primária do usuário                            |
 | Usuário   | nome            | VARCHAR  |     100 | Nome completo do usuário                             |
 | Usuário   | email           | VARCHAR  |     100 | E-mail do usuário                                    |
-<<<<<<< HEAD
 | Usuário   | telefone        | VARCHAR  |      15| Telefone do usuário                                  |
-=======
 | Usuário   | telefone        | VARCHAR  |      20| Telefone do usuário                                  |
->>>>>>> 20ddfa555f647dee700b83a77762ec56229b6183
 | Usuário   | departamento    | VARCHAR  |      50 | Departamento onde o usuário trabalha                 |
 | Usuário   | cargo           | VARCHAR  |      50 | Cargo ocupado pelo usuário                           |
 | Usuário   | status          | VARCHAR  |      20 | Situação do usuário                                  |
@@ -173,11 +170,8 @@ select * from tecnico;
 | Histórico | id_chamado      | INT      |      11 | Chave estrangeira do chamado                         |
 | Histórico | id_usuario      | INT      |      11 | Chave estrangeira do usuário que realizou o registro |
 | Histórico | data_hora       | DATETIME |       — | Data e hora do registro                              |
-| Histórico | descricao       | TEXT     |       — | Descrição da atualização ou ação                     |
-<<<<<<< HEAD
+| Histórico | descricao       | TEXT     |       — | Descrição da atualização ou ação                     
 | Histórico | tipo            | VARCHAR  |      30 | Tipo do registro realizado    
-=======
 | Histórico | tipo            | VARCHAR  |      30 | Tipo do registro realizado                           |
 
-                      
->>>>>>> 20ddfa555f647dee700b83a77762ec56229b6183
+                    
