@@ -13,11 +13,11 @@
 ![MER/DER](./MER%20DER%20conceitual%20e%20lógico%20bcd%20chamados%20de%20TI.drawio.png)
 
 ## Dados de teste em CSV
-<a href="categoria.csv">categoria.csv</a>
-<a href="chamado.csv">chamado.csv</a>
-<a href="tecnico.csv">tecnico.csv</a>
-<a href="historico.csv">historico.csv</a>
-<a href="usuário.csv">usuário.csv</a>
+- <a href="categoria.csv">categoria.csv</a>
+- <a href="chamado.csv">chamado.csv</a>
+- <a href="tecnico.csv">tecnico.csv</a>
+- <a href="historico.csv">historico.csv</a>
+- <a href="usuário.csv">usuário.csv</a>
 
 ## Script SQL DDL (Desenvolvimento: Criação do Banco de dados)
 
